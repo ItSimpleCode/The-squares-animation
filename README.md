@@ -7,7 +7,5 @@ it is same thing and it is up to you.
 if you want my services:
 - gmail: elqayedycontact@gmail.com
 - instagram: @itsimplecode for code.
-- instagram: @yeqweb for UI/UX design.
-- facebook: null
-- facebook: null
+- facebook: @itsimplecode
 - twitter: null
